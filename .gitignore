@@ -129,3 +129,5 @@ TestResults.xml
 
 # ignorar build de Maven
 target/
+
+.git_backup/
